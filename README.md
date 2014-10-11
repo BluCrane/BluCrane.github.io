@@ -12,5 +12,5 @@ https://github.com/blucrane/
 Github Pages repo:  
 https://github.com/blucrane/blucrane.github.io/
 
-Coming soon, customized homepage at:
+Coming soon, our customized homepage at:
 http://blucrane.github.io/
