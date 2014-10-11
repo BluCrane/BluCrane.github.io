@@ -4,7 +4,7 @@ BluCrane.github.io
 
 ## Welcome to BruCrane
 
-Our first project on Github
+This is our new project on Github
 
 Github user page: 
 https://github.com/blucrane/
