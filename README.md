@@ -2,7 +2,7 @@ BluCrane.github.io
 ==================
 
 
-## Welcome to BruCrane
+## Welcome to BluCrane
 
 This is our new project on Github
 
