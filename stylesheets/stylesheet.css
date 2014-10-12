@@ -64,19 +64,19 @@ a:hover {
 }
 
 header {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/bcheader.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  border-bottom: solid 1px #00ced1;
 }
 
 header h1 {
-  letter-spacing: -1px;
-  font-size: 72px;
+  letter-spacing: 0px;
+  font-size: 0px;
   color: #fff;
-  line-height: 1;
-  margin-bottom: 0.2em;
+  line-height: 0;
+  margin-bottom: 0em;
   width: 540px;
 }
 
